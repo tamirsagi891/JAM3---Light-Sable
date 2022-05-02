@@ -1,0 +1,2148 @@
+fileFormatVersion: 2
+guid: d1bedde7dcd2d194992e4634593f906b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2569882083646599104
+    second: endallframes_0
+  - first:
+      213: -1479086388958449051
+    second: endallframes_1
+  - first:
+      213: -5885080087129090708
+    second: endallframes_2
+  - first:
+      213: 4099540850119761381
+    second: endallframes_3
+  - first:
+      213: -660487949506097354
+    second: endallframes_4
+  - first:
+      213: -6480487442951305353
+    second: endallframes_5
+  - first:
+      213: -3686714180607634632
+    second: endallframes_6
+  - first:
+      213: 4171083692992181517
+    second: endallframes_7
+  - first:
+      213: -8448538438941679574
+    second: endallframes_8
+  - first:
+      213: 4733489741419333109
+    second: endallframes_9
+  - first:
+      213: -7547924617791228285
+    second: endallframes_10
+  - first:
+      213: -917714131658968607
+    second: endallframes_11
+  - first:
+      213: -6152084470091649767
+    second: endallframes_12
+  - first:
+      213: -4520852504527568671
+    second: endallframes_13
+  - first:
+      213: 7755348496966273118
+    second: endallframes_14
+  - first:
+      213: -7350293870845131563
+    second: endallframes_15
+  - first:
+      213: 3505174298903131956
+    second: endallframes_16
+  - first:
+      213: 2980307640235583643
+    second: endallframes_17
+  - first:
+      213: -1407350254852791270
+    second: endallframes_18
+  - first:
+      213: 2628564946249657919
+    second: endallframes_19
+  - first:
+      213: 5760331151938833781
+    second: endallframes_20
+  - first:
+      213: -9001474351135895243
+    second: endallframes_21
+  - first:
+      213: 8029324168654629830
+    second: endallframes_22
+  - first:
+      213: 5374352997898354783
+    second: endallframes_23
+  - first:
+      213: -3146682962093934086
+    second: endallframes_24
+  - first:
+      213: -3220049610473207787
+    second: endallframes_25
+  - first:
+      213: -4709280664564333949
+    second: endallframes_26
+  - first:
+      213: -8169383643084048228
+    second: endallframes_27
+  - first:
+      213: 3733453115049561063
+    second: endallframes_28
+  - first:
+      213: 3580763585479527960
+    second: endallframes_29
+  - first:
+      213: 8835390665798197753
+    second: endallframes_30
+  - first:
+      213: 277244868398048998
+    second: endallframes_31
+  - first:
+      213: 7067388373865490545
+    second: endallframes_32
+  - first:
+      213: 4783084860990982813
+    second: endallframes_33
+  - first:
+      213: -1009791577348026399
+    second: endallframes_34
+  - first:
+      213: 3731455204861501831
+    second: endallframes_35
+  - first:
+      213: -8247126596501658716
+    second: endallframes_36
+  - first:
+      213: 813866403867827791
+    second: endallframes_37
+  - first:
+      213: 5288951912785586531
+    second: endallframes_38
+  - first:
+      213: -2525906386621520579
+    second: endallframes_39
+  - first:
+      213: 9000197560516094038
+    second: endallframes_40
+  - first:
+      213: 3639607749470438923
+    second: endallframes_41
+  - first:
+      213: -3088748304243548023
+    second: endallframes_42
+  - first:
+      213: -4167340859824866953
+    second: endallframes_43
+  - first:
+      213: 8220057278128185766
+    second: endallframes_44
+  - first:
+      213: -7058291849627820612
+    second: endallframes_45
+  - first:
+      213: -503886378412241790
+    second: endallframes_46
+  - first:
+      213: -1809541261444407257
+    second: endallframes_47
+  - first:
+      213: 3882959555259435516
+    second: endallframes_48
+  - first:
+      213: -8884644976213628983
+    second: endallframes_49
+  - first:
+      213: -3168628933668926595
+    second: endallframes_50
+  - first:
+      213: -7843618248502916162
+    second: endallframes_51
+  - first:
+      213: -2199974057813665005
+    second: endallframes_52
+  - first:
+      213: -6318251041520034296
+    second: endallframes_53
+  - first:
+      213: -7927371076208854265
+    second: endallframes_54
+  - first:
+      213: -6183098116626870171
+    second: endallframes_55
+  - first:
+      213: 9104752207773979048
+    second: endallframes_56
+  - first:
+      213: 2203323183780531898
+    second: endallframes_57
+  - first:
+      213: -5370847127386578521
+    second: endallframes_58
+  - first:
+      213: -1323681001689233829
+    second: endallframes_59
+  - first:
+      213: 3020987264961985817
+    second: endallframes_60
+  - first:
+      213: -6646483736707264345
+    second: endallframes_61
+  - first:
+      213: -3259208396871122251
+    second: endallframes_62
+  - first:
+      213: 738378841875522612
+    second: endallframes_63
+  - first:
+      213: -4509507276946471990
+    second: endallframes_64
+  - first:
+      213: -5046317175629849958
+    second: endallframes_65
+  - first:
+      213: 5482151007207457339
+    second: endallframes_66
+  - first:
+      213: 1752644109376414160
+    second: endallframes_67
+  - first:
+      213: 4449570253725554503
+    second: endallframes_68
+  - first:
+      213: -4392694817851988640
+    second: endallframes_69
+  - first:
+      213: 1646297451091207829
+    second: endallframes_70
+  - first:
+      213: -7395637018239386286
+    second: endallframes_71
+  - first:
+      213: -6945095435691870882
+    second: endallframes_72
+  - first:
+      213: -1723201295792130894
+    second: endallframes_73
+  - first:
+      213: -5224066721032734302
+    second: endallframes_74
+  - first:
+      213: 5059418087954638704
+    second: endallframes_75
+  - first:
+      213: -9103570269756159495
+    second: endallframes_76
+  - first:
+      213: -7377431935130224466
+    second: endallframes_77
+  - first:
+      213: 5279536835869532401
+    second: endallframes_78
+  - first:
+      213: -8182518518490502056
+    second: endallframes_79
+  - first:
+      213: -3741218086851877563
+    second: endallframes_80
+  - first:
+      213: -3957197632434284109
+    second: endallframes_81
+  - first:
+      213: 7641430930353756596
+    second: endallframes_82
+  - first:
+      213: -5854783620108215852
+    second: endallframes_83
+  - first:
+      213: 9185482195570541109
+    second: endallframes_84
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: endallframes_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3335
+        width: 661
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf6566a32e0aa320800000000000000
+      internalID: 2569882083646599104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_1
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 3335
+        width: 660
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562340a04ca397be0800000000000000
+      internalID: -1479086388958449051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_2
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 3335
+        width: 661
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6512fb57def35ea0800000000000000
+      internalID: -5885080087129090708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_3
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 3335
+        width: 660
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed5791deae74e830800000000000000
+      internalID: 4099540850119761381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_4
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 3335
+        width: 661
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f434795b975d6f0800000000000000
+      internalID: -660487949506097354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_5
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 3335
+        width: 661
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7770287710fa016a0800000000000000
+      internalID: -6480487442951305353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_6
+      rect:
+        serializedVersion: 2
+        x: 4025
+        y: 3335
+        width: 660
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8339c7c5cf826dcc0800000000000000
+      internalID: -3686714180607634632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_7
+      rect:
+        serializedVersion: 2
+        x: 4694
+        y: 3335
+        width: 661
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d053939f48aa2e930800000000000000
+      internalID: 4171083692992181517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_8
+      rect:
+        serializedVersion: 2
+        x: 5364
+        y: 3335
+        width: 660
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20e5a35d03c0ca80800000000000000
+      internalID: -8448538438941679574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_9
+      rect:
+        serializedVersion: 2
+        x: 6033
+        y: 3335
+        width: 661
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5414937dbb0b140800000000000000
+      internalID: 4733489741419333109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2966
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386b02dfc82604790800000000000000
+      internalID: -7547924617791228285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_11
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 2966
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e17c190cdf9343f0800000000000000
+      internalID: -917714131658968607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_12
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 2966
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d6df305c76f9aa0800000000000000
+      internalID: -6152084470091649767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_13
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 2966
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e003b18994b241c0800000000000000
+      internalID: -4520852504527568671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_14
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 2966
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58c80f4e5880ab60800000000000000
+      internalID: 7755348496966273118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_15
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 2966
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d48b810ba28ef990800000000000000
+      internalID: -7350293870845131563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_16
+      rect:
+        serializedVersion: 2
+        x: 4025
+        y: 2966
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43733f12471e4a030800000000000000
+      internalID: 3505174298903131956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_17
+      rect:
+        serializedVersion: 2
+        x: 4695
+        y: 2966
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98ef99220e2c5920800000000000000
+      internalID: 2980307640235583643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_18
+      rect:
+        serializedVersion: 2
+        x: 5365
+        y: 2966
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14a1f05666187ce0800000000000000
+      internalID: -1407350254852791270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_19
+      rect:
+        serializedVersion: 2
+        x: 6035
+        y: 2966
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e214254e98a7420800000000000000
+      internalID: 2628564946249657919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2596
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d4ee3c9aec0ff40800000000000000
+      internalID: 5760331151938833781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_21
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 2596
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53151cdf4c6541380800000000000000
+      internalID: -9001474351135895243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_22
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 2596
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb2e1b4ac3ed6f60800000000000000
+      internalID: 8029324168654629830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_23
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 2596
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f508949b399859a40800000000000000
+      internalID: 5374352997898354783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_24
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 2596
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9fd9f848cb454d0800000000000000
+      internalID: -3146682962093934086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_25
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 2596
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5180c9890f51053d0800000000000000
+      internalID: -3220049610473207787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_26
+      rect:
+        serializedVersion: 2
+        x: 4025
+        y: 2596
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3820709bf2645aeb0800000000000000
+      internalID: -4709280664564333949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_27
+      rect:
+        serializedVersion: 2
+        x: 4695
+        y: 2596
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98b6102cd480ae80800000000000000
+      internalID: -8169383643084048228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_28
+      rect:
+        serializedVersion: 2
+        x: 5365
+        y: 2596
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebca14d3d3efc330800000000000000
+      internalID: 3733453115049561063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_29
+      rect:
+        serializedVersion: 2
+        x: 6035
+        y: 2596
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e4921628d61b130800000000000000
+      internalID: 3580763585479527960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2226
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f124b6affc9d9a70800000000000000
+      internalID: 8835390665798197753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_31
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 2226
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e66aa82db8f8d300800000000000000
+      internalID: 277244868398048998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_32
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 2226
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1786af90848641260800000000000000
+      internalID: 7067388373865490545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_33
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 2226
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a8ae5d65ee06240800000000000000
+      internalID: 4783084860990982813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_34
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 2226
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef4df619ef7cf1f0800000000000000
+      internalID: -1009791577348026399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_35
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 2226
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7816d0d1dbac8c330800000000000000
+      internalID: 3731455204861501831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_36
+      rect:
+        serializedVersion: 2
+        x: 4025
+        y: 2226
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3a7dd3e025c8d80800000000000000
+      internalID: -8247126596501658716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_37
+      rect:
+        serializedVersion: 2
+        x: 4695
+        y: 2226
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e9a29ae2f6b4b00800000000000000
+      internalID: 813866403867827791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_38
+      rect:
+        serializedVersion: 2
+        x: 5365
+        y: 2226
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36925bb1eb1266940800000000000000
+      internalID: 5288951912785586531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_39
+      rect:
+        serializedVersion: 2
+        x: 6035
+        y: 2226
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35a881368d22fcd0800000000000000
+      internalID: -2525906386621520579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1855
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65826e60fff17ec70800000000000000
+      internalID: 9000197560516094038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_41
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1855
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06c1f4f6fb728230800000000000000
+      internalID: 3639607749470438923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_42
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1855
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98029fc38cf8225d0800000000000000
+      internalID: -3088748304243548023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_43
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 1855
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779fa284191aa26c0800000000000000
+      internalID: -4167340859824866953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_44
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 1855
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1e130fa82831270800000000000000
+      internalID: 8220057278128185766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_45
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 1855
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd16ed85f8eb0e90800000000000000
+      internalID: -7058291849627820612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_46
+      rect:
+        serializedVersion: 2
+        x: 4025
+        y: 1855
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c849f2206d109f0800000000000000
+      internalID: -503886378412241790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_47
+      rect:
+        serializedVersion: 2
+        x: 4695
+        y: 1855
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720a1316fc733e6e0800000000000000
+      internalID: -1809541261444407257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_48
+      rect:
+        serializedVersion: 2
+        x: 5365
+        y: 1855
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf98278842b03e530800000000000000
+      internalID: 3882959555259435516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_49
+      rect:
+        serializedVersion: 2
+        x: 6035
+        y: 1855
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7e35d877663b480800000000000000
+      internalID: -8884644976213628983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_50
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1484
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b83afd5c4c604d0800000000000000
+      internalID: -3168628933668926595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_51
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1484
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb4630a2ced52390800000000000000
+      internalID: -7843618248502916162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_52
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1484
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b11f8104f1871e0800000000000000
+      internalID: -2199974057813665005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_53
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 1484
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ed47c37201158a0800000000000000
+      internalID: -6318251041520034296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_54
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 1484
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b7dd7d1025cf190800000000000000
+      internalID: -7927371076208854265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_55
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 1484
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560911bb509313aa0800000000000000
+      internalID: -6183098116626870171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_56
+      rect:
+        serializedVersion: 2
+        x: 4025
+        y: 1484
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a15258d4e39a5e70800000000000000
+      internalID: 9104752207773979048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_57
+      rect:
+        serializedVersion: 2
+        x: 4695
+        y: 1484
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe0f9e03c6c39e10800000000000000
+      internalID: 2203323183780531898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_58
+      rect:
+        serializedVersion: 2
+        x: 5365
+        y: 1484
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1223d5efae675b0800000000000000
+      internalID: -5370847127386578521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_59
+      rect:
+        serializedVersion: 2
+        x: 6035
+        y: 1484
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b564162642751ade0800000000000000
+      internalID: -1323681001689233829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_60
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1110
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91db90f59e3bce920800000000000000
+      internalID: 3020987264961985817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_61
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1110
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0172c8142f2c3a0800000000000000
+      internalID: -6646483736707264345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_62
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1110
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2c6872b37f4c2d0800000000000000
+      internalID: -3259208396871122251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_63
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 1110
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434a7a305af3f3a00800000000000000
+      internalID: 738378841875522612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_64
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 1110
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3019526030b61c0800000000000000
+      internalID: -4509507276946471990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_65
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 1110
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a51aae341e7f9b0800000000000000
+      internalID: -5046317175629849958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_66
+      rect:
+        serializedVersion: 2
+        x: 4025
+        y: 1110
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3286ad9b43841c40800000000000000
+      internalID: 5482151007207457339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_67
+      rect:
+        serializedVersion: 2
+        x: 4695
+        y: 1110
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1ef051884a25810800000000000000
+      internalID: 1752644109376414160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_68
+      rect:
+        serializedVersion: 2
+        x: 5365
+        y: 1110
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747d478229c00cd30800000000000000
+      internalID: 4449570253725554503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_69
+      rect:
+        serializedVersion: 2
+        x: 6035
+        y: 1110
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065ab3f26530a03c0800000000000000
+      internalID: -4392694817851988640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_70
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 736
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5962cee2fc2d8d610800000000000000
+      internalID: 1646297451091207829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_71
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 736
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25dbc10d05b6d5990800000000000000
+      internalID: -7395637018239386286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_72
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 736
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5536687f701e9f90800000000000000
+      internalID: -6945095435691870882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_73
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 736
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b431d72d85f518e0800000000000000
+      internalID: -1723201295792130894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_74
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 736
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a977e9def26087b0800000000000000
+      internalID: -5224066721032734302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_75
+      rect:
+        serializedVersion: 2
+        x: 3356
+        y: 736
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077e8bee1f9a63640800000000000000
+      internalID: 5059418087954638704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_76
+      rect:
+        serializedVersion: 2
+        x: 4026
+        y: 736
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9806b821f99a180800000000000000
+      internalID: -9103570269756159495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_77
+      rect:
+        serializedVersion: 2
+        x: 4696
+        y: 736
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8b0f70eb81e9990800000000000000
+      internalID: -7377431935130224466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_78
+      rect:
+        serializedVersion: 2
+        x: 5366
+        y: 736
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0e790b7cea44940800000000000000
+      internalID: 5279536835869532401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_79
+      rect:
+        serializedVersion: 2
+        x: 6036
+        y: 736
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c6151a2cad17e80800000000000000
+      internalID: -8182518518490502056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_80
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 365
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5456de9c8f5841cc0800000000000000
+      internalID: -3741218086851877563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_81
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 365
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9dcbc28b53519c0800000000000000
+      internalID: -3957197632434284109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_82
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 365
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b91b63f1f0db0a60800000000000000
+      internalID: 7641430930353756596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_83
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 365
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d99ca64151afbea0800000000000000
+      internalID: -5854783620108215852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endallframes_84
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 365
+        width: 660
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53248add363697f70800000000000000
+      internalID: 9185482195570541109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

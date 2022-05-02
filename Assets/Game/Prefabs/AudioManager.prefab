@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7227003824466744406
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7227003824466744404}
+  - component: {fileID: 7227003824466744407}
+  - component: {fileID: 4474678221336773147}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7227003824466744404
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7227003824466744406}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 10.518204, y: 7.5620575, z: -6.242181}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7227003824466744407
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7227003824466744406}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d179ac562aabd948bdbebce0e010eeb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  shotMusic: {fileID: 8300000, guid: 376d07943e800824eb6b69a27d298edf, type: 3}
+  pointMusic: {fileID: 8300000, guid: 6d307d35282a97e4d8806cdd6d2e1569, type: 3}
+  objectBreaksMusic: {fileID: 8300000, guid: 980a613c3db988a438bd828bb0ba96fd, type: 3}
+  monsterTrysToAttackMusic: {fileID: 8300000, guid: c83fb082c3bbf0e47b61cd5bed3e5890, type: 3}
+  monsterIdle: {fileID: 8300000, guid: a5184b680b0ce3948bf5b915c14a79a6, type: 3}
+  monsterDeathMusic:
+  - {fileID: 8300000, guid: e088c27e820404c4a85bf6bb86dfd2bd, type: 3}
+  - {fileID: 8300000, guid: ec2ac90c833728e46b11a08bd3e1908c, type: 3}
+  - {fileID: 8300000, guid: 3808fdd4bc8f60748ba865449bdf6af0, type: 3}
+  - {fileID: 8300000, guid: 4f4afe2a2192b744887f320c4c66b3ac, type: 3}
+  - {fileID: 8300000, guid: 6fa07dcf410f7af4c880374dafc95142, type: 3}
+  monsterAttackMusic: {fileID: 8300000, guid: 82f91c599b3785f48b333461cf118922, type: 3}
+  meetTheTreeMusic: {fileID: 8300000, guid: b23ab896578472442809fe0b99732660, type: 3}
+  playerDeathMusic: {fileID: 8300000, guid: 53424c185b42b034d9ca25aa7ccfd7dc, type: 3}
+  explosionMusic: {fileID: 8300000, guid: cf50fd9f9866cca44bdc791d73f2e352, type: 3}
+  doorLockOpenMusic: {fileID: 8300000, guid: 87e181a58f04e2843b345a5475bf508d, type: 3}
+  ammoPickupMusic: {fileID: 8300000, guid: b834b0229aa50f04bbc7e8776f011b42, type: 3}
+  bossBattleMusic: {fileID: 8300000, guid: 905a0baf7d841f44e8eb26c12c579cee, type: 3}
+  endingAndCreditsMusic: {fileID: 8300000, guid: af8b9d08a5f3a784fa56f058db1882c3, type: 3}
+  gameLoopMusic: {fileID: 8300000, guid: 90395a99b54bf174f86f2fe5181754c3, type: 3}
+  pressStartMusic: {fileID: 8300000, guid: e659a58b48eae414185b46d2927de98e, type: 3}
+  startSceneMusic: {fileID: 8300000, guid: 1229d548a746db8488d60d240d5f32fc, type: 3}
+--- !u!82 &4474678221336773147
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7227003824466744406}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
